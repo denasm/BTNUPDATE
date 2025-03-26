@@ -9,8 +9,8 @@
         {
             "label": "ESP Stream [Pie & Nougat]",
             "description": "Status : Available",
-            "status": "Maintenance",
-            "enabled": false
+            "status": "Available",
+            "enabled": true
         }
     ]
 }

@@ -3,16 +3,14 @@
         {
             "label": "Panel External [Pie & Nougat]",
             "description": "Status : Maintenance",
-            "status": "Maintenance",
-            "enabled": false,
-            "logo": "ffob47"
+            "logo": "ffob47",
+            "enabled": false
         },
         {
             "label": "ESP Stream [Pie & Nougat]",
             "description": "Status : Available",
-            "status": "Available",
-            "enabled": true,
-            "logo": "ffmax"
-        },
+            "logo": "ffmax",
+            "enabled": true
+        }
     ]
 }

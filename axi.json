@@ -4,7 +4,7 @@
             "label": "Panel External [1.109.1]",
             "description": "Status : Available",
             "status": "Available",
-            "enabled": false
+            "enabled": true
         },
         {
             "label": "ESP Stream [Pie & Nougat]",

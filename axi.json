@@ -2,9 +2,9 @@
     "buttons": [
         {
             "label": "Panel External [Pie & Nougat]",
-            "description": "Status : Available",
-            "status": "Available",
-            "enabled": true
+            "description": "Status : Maintenance",
+            "status": "Maintenance",
+            "enabled": false
         },
         {
             "label": "ESP Stream [Pie & Nougat]",

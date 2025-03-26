@@ -2,8 +2,8 @@
     "buttons": [
         {
             "label": "Panel External [1.109.1]",
-            "description": "Status : Maintenance",
-            "status": "Maintenance",
+            "description": "Status : Available",
+            "status": "Available",
             "enabled": false
         },
         {

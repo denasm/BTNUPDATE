@@ -3,14 +3,14 @@
         {
             "label": "Panel External [Pie & Nougat]",
             "description": "Status : Available",
-            "enabled": true,
-            "status": "Online"
+            "status": "Available",
+            "enabled": true
         },
         {
             "label": "ESP Stream [Pie & Nougat]",
-            "description": "Status : Maintenance",
-            "enabled": false,
-            "status": "Under Maintenance"
+            "description": "Status : Available",
+            "status": "Available",
+            "enabled": false
         }
     ]
 }

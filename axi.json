@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External",
+            "label": "Panel External [1.109.1]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true
         },
         {
-            "label": "ESP Stream",
+            "label": "ESP Stream [Pie & Nougat]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

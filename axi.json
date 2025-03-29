@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External [Alternative]",
-            "description": "Status : Available",
-            "status": "Available",
+            "label": "Panel External [Update NEW]",
+            "description": "Status : Maintenace",
+            "status": "Maintenance",
             "enabled": true
         },
         {
-            "label": "ESP Stream [Error API]",
+            "label": "ESP Stream [Update NEW]",
             "description": "Status : Maintenace",
             "status": "Maintenance",
             "enabled": false

@@ -1,10 +1,10 @@
 {
     "buttons": [
         {
-            "label": "Panel External [BEST]",
+            "label": "Panel External [Error API]",
             "description": "Status : Available",
             "status": "Available",
-            "enabled": true
+            "enabled": false
         },
         {
             "label": "ESP Stream [TOP]",

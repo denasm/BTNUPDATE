@@ -1,7 +1,7 @@
 {
     "buttons": [
         {
-            "label": "Panel External [NEED Update]",
+            "label": "Panel External [Alternative]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

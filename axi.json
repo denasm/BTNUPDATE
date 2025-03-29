@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External [Please Wait]",
+            "label": "Panel External [Error X-Signature]",
             "description": "Status : Maintenace",
             "status": "Maintenace",
             "enabled": false
         },
         {
-            "label": "ESP Stream [Please Wait]",
+            "label": "ESP Stream [Error X-Signature]",
             "description": "Status : Maintenace",
             "status": "Maintenace",
             "enabled": false

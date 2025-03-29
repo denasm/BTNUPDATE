@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External [Error API]",
+            "label": "Panel External [Best]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true
         },
         {
-            "label": "ESP Stream [Error API]",
+            "label": "ESP Stream [Top]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

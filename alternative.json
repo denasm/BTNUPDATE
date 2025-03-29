@@ -1,0 +1,16 @@
+{
+    "buttons": [
+        {
+            "label": "Panel External [Alternative]",
+            "description": "Status : Available",
+            "status": "Available",
+            "enabled": true
+        },
+        {
+            "label": "ESP Stream [Alternative]",
+            "description": "Status : Available",
+            "status": "Available",
+            "enabled": true
+        }
+    ]
+}

@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External [Update NEW]",
+            "label": "Panel [Use Alternative!]",
             "description": "Status : Maintenace",
             "status": "Maintenance",
-            "enabled": true
+            "enabled": false
         },
         {
-            "label": "ESP Stream [Update NEW]",
+            "label": "ESP [Use Alternative!]",
             "description": "Status : Maintenace",
             "status": "Maintenance",
             "enabled": false

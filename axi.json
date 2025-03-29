@@ -1,16 +1,16 @@
 {
     "buttons": [
         {
-            "label": "Panel External [Safe]",
-            "description": "Status : Available",
-            "status": "Available",
-            "enabled": true
+            "label": "Panel External [Please Wait]",
+            "description": "Status : Maintenace",
+            "status": "Maintenace",
+            "enabled": false
         },
         {
-            "label": "ESP Stream [Top]",
-            "description": "Status : Available",
-            "status": "Available",
-            "enabled": true
+            "label": "ESP Stream [Please Wait]",
+            "description": "Status : Maintenace",
+            "status": "Maintenace",
+            "enabled": false
         }
     ]
 }

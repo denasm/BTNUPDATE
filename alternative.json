@@ -1,7 +1,7 @@
 {
     "buttons": [
         {
-            "label": "Panel External [SAFE]",
+            "label": "Panel [Camera Blacklist]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

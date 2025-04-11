@@ -1,7 +1,7 @@
 {
     "buttons": [
         {
-            "label": "Panel [11-04]",
+            "label": "Panel External [11-04]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

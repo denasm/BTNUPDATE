@@ -4,13 +4,13 @@
             "label": "Panel External [05-05]",
             "description": "Status : Available",
             "status": "Available",
-            "enabled": true
+            "enabled": false
         },
         {
             "label": "ESP Stream [SAFE]",
             "description": "Status : Available",
             "status": "Available",
-            "enabled": true
+            "enabled": false
         }
     ]
 }

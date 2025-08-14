@@ -7,7 +7,7 @@
             "enabled": true
         },
         {
-            "label": "ESP Stream [Update!]",
+            "label": "ESP Stream [Fixed]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

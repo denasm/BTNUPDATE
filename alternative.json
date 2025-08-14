@@ -1,13 +1,13 @@
 {
     "buttons": [
         {
-            "label": "Panel External [10-08]",
+            "label": "Panel External [14-08]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true
         },
         {
-            "label": "ESP Stream",
+            "label": "ESP Stream [Update!]",
             "description": "Status : Available",
             "status": "Available",
             "enabled": true

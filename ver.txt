@@ -1,2 +1,2 @@
-5.0.3
-[+] Repair FreeFire MAX
+5.0.4
+[+] Aimbot HEAD (NoBUG Damage)

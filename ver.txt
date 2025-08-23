@@ -1,2 +1,2 @@
-5.0.4
-[+] Aimbot HEAD (NoBUG Damage)
+5.0.5
+- Fix ESP not a detected

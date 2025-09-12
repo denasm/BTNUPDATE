@@ -1,0 +1,18 @@
+{
+  "pollIntervalSeconds": 60,
+  "games": {
+    "FreeFire": {
+      "enabled": true,
+      "allowedVersions": ["2019118692 32-Bit"]
+    },
+    "FreeFireMAX": {
+      "enabled": true,
+      "allowedVersions": ["2019115654 32-Bit", "2019115659 32-Bit"]
+    },
+    "FreeFireBRUTAL": {
+      "enabled": false,
+      "allowedVersions": ["2019118692 32-Bit"]
+    }
+  },
+  "messageOfTheDay": ""
+}

@@ -1,2 +1,2 @@
-5.0.5
-- Fix ESP not a detected
+5.2.6
+- Fix Error Detection Emulator & ADB.

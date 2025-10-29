@@ -1,2 +1,2 @@
-5.2.6
-- Fix Error Detection Emulator & ADB.
+0.0.0
+- Maintenance (Update OB).

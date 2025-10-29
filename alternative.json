@@ -10,7 +10,7 @@
             "label": "ESP Stream ",
             "description": "Status : Available",
             "status": "Available",
-            "enabled": false
+            "enabled": true
         }
     ]
 }

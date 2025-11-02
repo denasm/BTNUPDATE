@@ -1,2 +1,2 @@
-6.0.0
-- FIX OB Update.
+6.1.0
+[+] Support FreeFire Version 201911027

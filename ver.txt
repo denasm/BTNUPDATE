@@ -1,2 +1,2 @@
-6.1.0
-[+] Support FreeFire Version 201911027
+6.2.0
+[+] Fix Glitch & Repair Aimbot HEAD Brutal & MAX

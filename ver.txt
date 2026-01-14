@@ -1,2 +1,2 @@
 7.0.0
-Maintenance (Update)
+- repair panels, please update.

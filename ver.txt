@@ -1,2 +1,2 @@
-6.2.0
-[+] Fix Glitch & Repair Aimbot HEAD Brutal & MAX
+0.0.0
+Maintenance (Update)
